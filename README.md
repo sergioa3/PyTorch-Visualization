@@ -8,4 +8,6 @@ Visualization implemented for
 (3) NN fitting on sine data + noise. Animation is sped up x15.
 <br>
 <br>
+
+Both models are being fit to reduce MSE.
 Data is RED, model is BLUE.
