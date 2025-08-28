@@ -10,4 +10,5 @@ Visualization implemented for
 <br>
 
 Both models are being fit to reduce MSE.
+<br>
 Data is RED, model is BLUE.
